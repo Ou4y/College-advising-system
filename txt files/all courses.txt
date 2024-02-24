@@ -1,0 +1,186 @@
+English for Academic Purposes
+ENG 100
+3
+
+Freshman English I
+ENG 101
+3
+
+Computer Skills for Social Sciences
+SOC 204
+3
+
+Professional Ethics
+ETH 101
+3
+
+Entrepreneurship and innovation
+ENR 101
+3
+
+Desktop Publishing
+COM 200
+3
+
+Mathematics
+BAS 111
+3
+
+Physics
+BAS 121
+4
+
+Probability and Statistics
+BAS 131
+3
+
+Discrete Mathematics & linear algebra
+BAS112
+3
+
+Digital Logic Design
+CSC 120
+3
+
+Introduction to Computer Science & Programming
+SWE 110
+4
+
+Computer Programming & Problem Solving
+SWE 111		
+4
+
+Data Structures & Algorithms
+SWE 210	
+4
+
+Object Oriented Programming
+SWE 211			
+4
+
+Algorithms Analysis & Design
+SWE 212			
+4
+
+Operating Systems
+CSC 210			
+3
+
+Computer Organization
+CSC 220		
+3
+
+Computer Networks
+CSC 230		
+4
+
+Database Management Systems	
+INF 230	
+4
+
+Web Development
+SWE 230		
+4
+
+Software Engineering	
+SWE 320
+4
+
+Software Project Management
+SWE 321	
+3
+
+Artificial Intelligence
+CSC 340	
+3
+
+Statistical Analysis
+BAS 331	
+3
+
+Image Processing
+CSC 360	
+4
+
+Principles of Software Architecture	
+SWE 411	
+4
+
+Software Validation and Testing
+SWE 413
+3
+
+Senior Project in Software Engineering
+SWE 491A
+0
+	
+Business Intelligence and Analysis
+INF 411
+3
+
+Enterprise Resource Planning
+INF 433	
+3
+
+IT Infrastructure and Enterprise Needs
+INF 330	
+4
+
+Systems Analysis & Design
+INF 319
+4
+
+Foundations of Cyber Security
+INF 322	
+3
+
+Introduction to Cybercrime
+INF 321	
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
